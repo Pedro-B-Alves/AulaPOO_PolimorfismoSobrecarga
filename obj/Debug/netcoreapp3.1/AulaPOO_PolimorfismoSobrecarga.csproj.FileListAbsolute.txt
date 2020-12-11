@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_PolimorfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimorfismoSobrecarga.genruntimeconfig.cache
